@@ -10,3 +10,5 @@ I have recently taken this hobby called blogging where I aim to grow and help gr
 ### I hangout mostly on GitLab, But here's my stats
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=xyznaveen)](https://github.com/xyznaveen)
+
+^^ Stats By: [Anurag Hazra](https://github.com/anuraghazra/)
