@@ -4,4 +4,4 @@
 I have recently taken this hobby called blogging where I aim to grow and help grow. I hope I have content worth coming back to here: [TechEnum](https://techenum.com/)
 
 ### To Find Me
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/32px-Linkedin.svg.png" /> [LinkedIN]()
+[LinkedIN <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/16px-Linkedin.svg.png" />](https://www.linkedin.com/in/xyznaveen/)
