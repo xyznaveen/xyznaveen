@@ -3,9 +3,8 @@
 
 I have recently taken this hobby called blogging where I aim to grow and help grow through: [TechEnum](https://techenum.com/)
 
-### To Find Me
+### Let's Connect:
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/16px-Linkedin.svg.png" /> LinkedIN](https://www.linkedin.com/in/xyznaveen/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Twitter.svg/16px-Twitter.svg.png" /> Twitter](https://twitter.com/xyznavi/)
 
 ### I hangout mostly on GitLab, But here's my stats
 
